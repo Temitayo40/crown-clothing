@@ -1,7 +1,11 @@
 body {
-  font-family: "Open sans Condensed";
+  font-family: "Open sans";
   padding: 20px 60px;
 }
 a {
   text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
 }
