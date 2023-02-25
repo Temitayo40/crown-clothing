@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# Crown-Clothing
+This is a clothing webApp where users can sign in and check through the categories of cloth present, cart and checkout and pay via online transaction.
+
+
+# Built with
+<ul>
+<li>HTML</li>
+<li>SCSS</li>
+<li>JavaScript</li>
+<li>React.js Framework</li>
+</ul>
+
+# Live Demo
+ <a href="https://crown-clothing-free-realm.netlify.app/" target="_blank">crown-Clothing</a>
+ 
+# Usage
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
